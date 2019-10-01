@@ -1,0 +1,32 @@
+.box{
+  background-color:white;
+  color:#333333;
+  padding: 20px;
+  width:700px;
+  height: auto;
+  margin: 200px auto auto auto;
+  border-radius: 10px;
+  text-align:center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+  
+}
+body{
+  background-color:#191919;
+}
+#unit{
+      display:inline;
+}
+#temperature{
+  display:inline;
+}
+#humidity{
+  display:inline;
+}
+#windspeed{
+      display:inline;
+}
+#pressure{
+  display:inline;
+ 
+}
