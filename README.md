@@ -1,4 +1,4 @@
-# Local Weather App
+# Weather App
 
 You can find this one at https://codepen.io/shashank195/full/jONjgeG
 
